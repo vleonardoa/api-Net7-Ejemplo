@@ -1,0 +1,19 @@
+Create Procedure listCat
+as
+BEGIN
+Select * from T_CATEGORIA;
+END
+
+alter Procedure DelCat
+@id_cat VARCHAR(30),
+@estado bit
+as
+BEGIN
+UPDATE T_CATEGORIA SET ESTADO = @estado where ID_CATEGORIA = @id_cat;
+declare @msg int = 1
+select @msg AS msg
+END
+
+EXEC LISTCAT
+
+EXEC DelCat 'PROD003',0

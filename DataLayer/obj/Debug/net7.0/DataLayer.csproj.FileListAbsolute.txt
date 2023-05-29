@@ -1,0 +1,24 @@
+C:\Project\DataLayer\bin\Debug\net7.0\DataLayer.deps.json
+C:\Project\DataLayer\bin\Debug\net7.0\DataLayer.dll
+C:\Project\DataLayer\bin\Debug\net7.0\DataLayer.pdb
+C:\Project\DataLayer\obj\Debug\net7.0\DataLayer.csproj.AssemblyReference.cache
+C:\Project\DataLayer\obj\Debug\net7.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfoInputs.cache
+C:\Project\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfo.cs
+C:\Project\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Project\DataLayer\obj\Debug\net7.0\DataLayer.dll
+C:\Project\DataLayer\obj\Debug\net7.0\refint\DataLayer.dll
+C:\Project\DataLayer\obj\Debug\net7.0\DataLayer.pdb
+C:\Project\DataLayer\obj\Debug\net7.0\ref\DataLayer.dll
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\DataLayer\bin\Debug\net7.0\DataLayer.deps.json
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\DataLayer\bin\Debug\net7.0\DataLayer.dll
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\DataLayer\bin\Debug\net7.0\DataLayer.pdb
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\DataLayer\obj\Debug\net7.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\DataLayer\obj\Debug\net7.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfo.cs
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\DataLayer\obj\Debug\net7.0\DataLayer.dll
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\DataLayer\obj\Debug\net7.0\refint\DataLayer.dll
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\DataLayer\obj\Debug\net7.0\DataLayer.pdb
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\DataLayer\obj\Debug\net7.0\ref\DataLayer.dll

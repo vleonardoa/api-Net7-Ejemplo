@@ -1,0 +1,30 @@
+C:\Project\LogicLayer\bin\Debug\net7.0\LogicLayer.deps.json
+C:\Project\LogicLayer\bin\Debug\net7.0\LogicLayer.dll
+C:\Project\LogicLayer\bin\Debug\net7.0\LogicLayer.pdb
+C:\Project\LogicLayer\bin\Debug\net7.0\DataLayer.dll
+C:\Project\LogicLayer\bin\Debug\net7.0\DataLayer.pdb
+C:\Project\LogicLayer\obj\Debug\net7.0\LogicLayer.csproj.AssemblyReference.cache
+C:\Project\LogicLayer\obj\Debug\net7.0\LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\LogicLayer\obj\Debug\net7.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Project\LogicLayer\obj\Debug\net7.0\LogicLayer.AssemblyInfo.cs
+C:\Project\LogicLayer\obj\Debug\net7.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Project\LogicLayer\obj\Debug\net7.0\LogicLayer.csproj.CopyComplete
+C:\Project\LogicLayer\obj\Debug\net7.0\LogicLayer.dll
+C:\Project\LogicLayer\obj\Debug\net7.0\refint\LogicLayer.dll
+C:\Project\LogicLayer\obj\Debug\net7.0\LogicLayer.pdb
+C:\Project\LogicLayer\obj\Debug\net7.0\ref\LogicLayer.dll
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\bin\Debug\net7.0\LogicLayer.deps.json
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\bin\Debug\net7.0\LogicLayer.dll
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\bin\Debug\net7.0\LogicLayer.pdb
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\bin\Debug\net7.0\DataLayer.dll
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\bin\Debug\net7.0\DataLayer.pdb
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\obj\Debug\net7.0\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\obj\Debug\net7.0\LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\obj\Debug\net7.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\obj\Debug\net7.0\LogicLayer.AssemblyInfo.cs
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\obj\Debug\net7.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\obj\Debug\net7.0\LogicLayer.csproj.CopyComplete
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\obj\Debug\net7.0\LogicLayer.dll
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\obj\Debug\net7.0\refint\LogicLayer.dll
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\obj\Debug\net7.0\LogicLayer.pdb
+C:\Users\Vidal Leonardo\Desktop\Modelo Api Net7\LogicLayer\obj\Debug\net7.0\ref\LogicLayer.dll
